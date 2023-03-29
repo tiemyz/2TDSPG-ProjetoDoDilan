@@ -1,1 +1,1 @@
-# Esta pasta deve ser usada para guardar planos, desenhos de engenharia de software e seu banco de dados.
+# Esta pasta deve ser usada para guardar planos, desenhos de engenharia de software e seu banco de dados, como arquivos .astah, .bmp, .doc, .xlsx
